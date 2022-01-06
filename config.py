@@ -1,4 +1,4 @@
-customhost = "myprjt.cc1dflwlgcer.ap-south-1.rds.amazonaws.com"
+customhost = "myprjt.cynmd2h7esrr.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "mypassword"
 customdb = "employee"
